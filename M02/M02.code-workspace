@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "2.3: Calculator",
+			"path": "calc"
+		},
+		{
+			"name": "2.5: Triangle",
+			"path": "triangle"
+		},
+		{
+			"name": "2.6: ASCII",
+			"path": "ascii"
+		}
+	],
+	"settings": {}
+}

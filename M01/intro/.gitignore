@@ -1,0 +1,12 @@
+/build
+/dist
+/nbproject/private
+mockinput
+mockoutput
+tmc_available_points.txt
+tmc_test_results.xml
+src/main
+test/test
+*.dSYM
+*~
+*/*~

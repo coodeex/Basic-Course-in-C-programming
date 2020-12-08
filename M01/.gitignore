@@ -1,0 +1,8 @@
+*.dSYM
+*~
+*/*~
+*/src/main
+*/test/test
+*/src/*nomain.c*
+.DS_Store
+*/.DS_Store
